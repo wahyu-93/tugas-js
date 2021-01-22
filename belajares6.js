@@ -1,6 +1,6 @@
 // tes 1
 const golden = () => {
-    return 'dadadadad'
+    return 'this is golden !!!'
 }
 
 console.log(golden());
